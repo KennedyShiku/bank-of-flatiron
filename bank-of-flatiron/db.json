@@ -97,6 +97,41 @@
       "category": "Food",
       "amount": "3000",
       "id": 14
+    },
+    {
+      "date": "2023-11-22",
+      "description": "Celebrate",
+      "category": "Chelsea",
+      "amount": "12000",
+      "id": 15
+    },
+    {
+      "date": "2023-11-22",
+      "description": "Celebrate",
+      "category": "Chelsea",
+      "amount": "12000",
+      "id": 16
+    },
+    {
+      "date": "",
+      "description": "cook",
+      "category": "food",
+      "amount": "567890",
+      "id": 17
+    },
+    {
+      "date": "2023-11-13",
+      "description": "",
+      "category": "Chelsea",
+      "amount": "12345",
+      "id": 18
+    },
+    {
+      "date": "2023-11-23",
+      "description": "thank",
+      "category": "you",
+      "amount": "12000",
+      "id": 19
     }
   ]
-} 
+}
